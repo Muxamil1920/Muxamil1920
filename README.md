@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Muzamil
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data-Science
-- 💞️ I’m looking to collaborate on ML Models
-- 📫 How to reach me muxamil1920@gmail.com
+- 💞️ I’m in search of Knowledge.
+- 📫 How to reach me : muxamil1920@gmail.com
 - ⚡ Fun fact: I am from Kashmir
 
 <!---
